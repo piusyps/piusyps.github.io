@@ -23,7 +23,7 @@
 
     * **Link to project:** https://github.com/piusyps/portfolio/tree/main/capstone
     <center>
-    <img src="capstone/output_files/gif/vid_4.gif" width="250" height="400" alt="Resized GIF"> 
+    <img src="/../portfolio/capstone/output_files/gif/vid_4.gif" width="250" height="400" alt="Resized GIF"> 
     </center>
 
 * **[Project 4: Obesity and Stroke Model with CT Brain Scan](https://github.com/piusyps/portfolio/tree/main/project_4)**
@@ -36,7 +36,7 @@
     * **Link to project:** https://github.com/piusyps/portfolio/tree/main/project_4
 
     <center>
-    <img src="project_4/images/models.jpg" width="250" height="250" alt="models"> 
+    <img src="/../portfolio/project_4/images/models.jpg" width="250" height="250" alt="models"> 
     </center>
 
 * **[Project 3: Web APIs & NLP](https://github.com/piusyps/portfolio/tree/main/project_3)**
@@ -49,7 +49,7 @@
     * **Link to project:** https://github.com/piusyps/portfolio/tree/main/project_3
 
     <center>
-    <img src="project_3/presentation/title.jpg" width="400" height="250" alt="models"> 
+    <img src="/../portfolio/project_3/presentation/title.jpg" width="400" height="250" alt="models"> 
     </center>
 
 * **[Project 2: Model for Predicting House Prices](https://github.com/piusyps/portfolio/tree/main/project_2)**
@@ -63,7 +63,7 @@
      
         (Predicted result submitted to Kaggle challenge:)
     <center>
-    <img src="project_2/img/submission.png" width="400" height="250" alt="models"> 
+    <img src="/../portfolio/project_2/img/submission.png" width="400" height="250" alt="models"> 
     </center>
 
 * **[Project 1: Analyzing the Impact of Singapore's Weather on Attraction Visitor Numbers](https://github.com/piusyps/portfolio/tree/main/project_1)**
@@ -76,7 +76,7 @@
     * **Link to project:** https://github.com/piusyps/portfolio/tree/main/project_1
 
     <center>
-    <img src="project_1/data/title.jpg" width="400" height="250" alt="models"> 
+    <img src="/../portfolio/project_1/data/title.jpg" width="400" height="250" alt="models"> 
     </center>
 
 ## 💡 Contact
