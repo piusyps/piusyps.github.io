@@ -1,11 +1,5 @@
 # Financial Analyst with Data Science background
 
-## Education
-- Data Science Immersive | General Assembly (_2024_)		
-- Master of Science in Professional Accountancy | University of London (_2017_)								       			 			        		
-- ACCA Professional Level | Association of Charterted Certified Accountants, UK (_2014_)		
-
-
 ## 🌟  About Me
 
 * Skilled in both financial analysis and data science, I am a Chartered Accountant (CA) of Singapore proficient in Python, machine learning, and SQL.
