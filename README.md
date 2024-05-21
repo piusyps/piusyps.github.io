@@ -20,6 +20,8 @@
     <img src="/../portfolio/capstone/output_files/gif/vid_4.gif" width="250" height="400" alt="Resized GIF"> 
     </center>
 
+
+
 * **[Project 4: Obesity and Stroke Model with CT Brain Scan](https://github.com/piusyps/portfolio/tree/main/project_4)**
     * **Summary:** Develop a streamlined system that leverages detailed patient information and machine learning models to improve stroke risk assessment – including obesity classification, stroke prediction based on patient data, and CT scan image analysis –  enabling physicians to proactively identify and treat high-risk patients.
 
@@ -33,6 +35,8 @@
     <img src="/../portfolio/project_4/images/models.jpg" width="250" height="250" alt="models"> 
     </center>
 
+
+
 * **[Project 3: Web APIs & NLP](https://github.com/piusyps/portfolio/tree/main/project_3)**
     * **Summary:** Developed a classification model to accurately classify posts and forums relevant to mothers by using webscraping and NLP.
 
@@ -45,6 +49,8 @@
     <center>
     <img src="/../portfolio/project_3/presentation/title.jpg" width="400" height="250" alt="models"> 
     </center>
+
+
 
 * **[Project 2: Model for Predicting House Prices](https://github.com/piusyps/portfolio/tree/main/project_2)**
     * **Summary:** Developed a model to predict the house prices based on the information like house type, location, floor level and etc.
@@ -60,6 +66,8 @@
     <img src="/../portfolio/project_2/img/submission.png" width="400" height="250" alt="models"> 
     </center>
 
+
+
 * **[Project 1: Analyzing the Impact of Singapore's Weather on Attraction Visitor Numbers](https://github.com/piusyps/portfolio/tree/main/project_1)**
     * **Summary:** The project aims to investigate whether a correlation exists between historical climate data in Singapore and historical visitor numbers.
 
@@ -72,6 +80,8 @@
     <center>
     <img src="/../portfolio/project_1/data/title.jpg" width="400" height="250" alt="models"> 
     </center>
+
+    
 
 ## 💡 Contact
 
